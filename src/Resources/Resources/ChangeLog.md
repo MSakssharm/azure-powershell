@@ -19,6 +19,8 @@
 -->
 
 ## Upcoming Release
+
+## Version 5.3.0
 * Updated parameter name `EnableAccount` to `AccountEnabled`, and added alias `EnableAccount` for `Update-AzADUser` [#16753]
 * Fix for https://github.com/Azure/azure-powershell/issues/15828 (Set-AzPolicyAssignment)
 
